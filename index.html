@@ -16,23 +16,41 @@
     <meta charset="UTF-8" />
   </head>
   <body>
+    <nav class="navbar">
+      <div class="logo">
+        <img
+          class="headshot-logo"
+          src="src/images/headshot.jpg"
+          alt="Fabien Marchand"
+        />
+      </div>
+      <!-- <img class="logo" src="src/images/logo.png" alt="Fabien Marchand's logo"/> -->
+      <ul id="nav-list">
+        <li><a href="#about-me">About me</a></li>
+        <li><a href="#projects">Projects</a></li>
+        <li><a href="#contact-me">Contact</a></li>
+      </ul>
+      
+      <div class="hamburger" id="hamburger">
+        <div class="bar1" id="bar"></div>
+        <div class="bar2" id="bar"></div>
+        <div class="bar3" id="bar"></div>
+      </div>
+      
+      <!-- <button class="hamburger" id="hamburger">
+        <i class="fa-solid fa-bars"></i>
+      </button> -->
+    </nav>
     <section class="hero">
-      <nav>
-        <div class="logo"></div>
-        <!-- <img class="logo" src="src/images/logo.png" alt="Fabien Marchand's logo"/> -->
-        <ul id="nav-list">
-          <li><a href="#about-me">About me</a></li>
-          <li><a href="#projects">Projects</a></li>
-          <li><a href="#contact-me">Contact</a></li>
-        </ul>
-        <button class="hamburger" id="hamburger">
-          <i class="fas fa-bars"></i>
-        </button>
-      </nav>
       <div class="hero-area">
         <div class="hero-text">
           <h1>Fabien Marchand</h1>
           <p>Full Stack Developer</p>
+          <p>
+            10 years of shaping software, now shaping the web: A developer's
+            journey to expand their skills!
+          </p>
+
           <div class="button-wrapper">
             <div class="button"><a href="#about-me">About me</a></div>
             <div class="button">
@@ -86,9 +104,8 @@
       <div class="information">
         <h2>About Me</h2>
         <p>
-          Curious developer who worked 10 years in a software editorcompany, in
-          which I had several jobs (Consultant, Lead BI, Project manager). I
-          decided to expand my skills in web development.
+          10 years of shaping software, now shaping the web: A developer's
+          journey to expand their skills!
         </p>
       </div>
       <div class="headshot-container">
@@ -117,28 +134,32 @@
           </p>
           <hr />
           <p class="subtext">
-            <a class="project-link" href="https://github.com/fabienMarchand/ArkanoidJs"
+            <a
+              class="project-link"
+              href="https://github.com/fabienMarchand/ArkanoidJs"
               >View code here</a
             >
           </p>
         </div>
         <div class="project-card">
-            <a href="https://march-clothing-redux.netlify.app/">
-          <img
-            class="project-image"
-            src="src/images/project2.jpg"
-            alt="March Clothing site"
-          />
-        </a>
+          <a href="https://march-clothing-redux.netlify.app/">
+            <img
+              class="project-image"
+              src="src/images/project2.jpg"
+              alt="March Clothing site"
+            />
+          </a>
           <h3>E-Commerce</h3>
           <p class="subtext">
-            E-commerce site with authentification, stripe for payment. 
-            I used React Typescript, redux saga, styled-components for the frontend,
-            I used Firebase for the backend.
+            E-commerce site with authentification, stripe for payment. I used
+            React Typescript, redux saga, styled-components for the frontend, I
+            used Firebase for the backend.
           </p>
           <hr />
           <p class="subtext">
-            <a class="project-link" href="https://github.com/fabienMarchand/march-clothing"
+            <a
+              class="project-link"
+              href="https://github.com/fabienMarchand/march-clothing"
               >View code here</a
             >
           </p>
