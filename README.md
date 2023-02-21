@@ -1,70 +1,32 @@
-# Getting Started with Create React App
+# responsive-portfolio
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+In this video, I am going to show you how to build a Personal Portfolio or website that looks great on mobile, tablet and desktop (so in other words, we will make it responsive!). We will be doing this with HTML and CSS, with the tiniest bit of JavaScript. So if you don't know how to use Javascript, don't worry, you can still code along. 
 
-## Available Scripts
+This video is perfect for those looking to learn/improve their CSS and HTML skills. Watch the full video [here](https://youtu.be/-D6oTPA4vXc)
 
-In the project directory, you can run:
+At the end we deploy the site to a .com website so you can share it with your friends. Hostinger have kindly given a 10% discount to sign up to anyone who watches this video with packages starting from 99p a month.  To get 10% off on Hostinger use code ANIAKUBOW on this link here: https://www.hostinger.com/aniakubow
 
-### `npm start`
+Video content:
+* 00:00: Introduction
+* 03:52: Getting our .com domain
+* 05:43: File Setup
+* 09:18: Website layout in HTML
+* 15:41: Making a Nav bar
+* 20:31: Making a 'Hero' Section
+* 48:20: Making an 'About Me' Section
+* 55:52: Making a 'Projects' Section
+* 01:08:35: Using Anchor Links
+* 01:12:57: Using media query for tailored views on mobile, tablet and desktop
+* 01:14:50: Making a Hamburger drop-down menu
+* 01:23:55: Deploying our website onto the internet with SSL
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Other links:
+In this video I use Tabnine as my A.I autocompletion tool. You can download it for free here: http://bit.ly/tabnine-free
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+If you would like to buy me a coffee, well thank you very much that is mega kind! : https://www.buymeacoffee.com/aniakubow
 
-### `npm test`
+Sign up for weekly coding tips from my newsletter partnership: https://bit.ly/JS-tips
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+You can also find me on:
+Twitter: https://twitter.com/ania_kubow
+Instagram: https://www.instagram.com/aniakubow
