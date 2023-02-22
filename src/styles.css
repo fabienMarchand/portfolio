@@ -62,7 +62,7 @@ li {
 }
 
 h1 {
-  font-size: 90px;
+  font-size: 60px;
   margin: 0;
 }
 
@@ -70,10 +70,19 @@ h2 {
   font-size: 50px;
 }
 
+h6 {
+display: flex;
+  font-size: 20px;
+}
+
 p {
   margin: 0;
-  font-size: 30px;
+  font-size: 15px;
   font-weight: 300;
+}
+
+#strong-contact {
+  color: #335384;  
 }
 
 .subtext {
@@ -289,22 +298,16 @@ a {
     background-color: white;
   }
 
-  /* .nav-active a {
-    color: white;
-  } */
-
-  /* 
-  ul.show {
-    display: block;
-  } */
-  /* 
-  nav {
-    display: flex;
-    flex-direction: column-reverse;
-    background-color: white;
-  } */
-
   .logo {
-    display: none;
+    display: flex;
+    margin: 1px;
+    padding: 0.25% 1%;
+    height: 100%;
+
   }
+
+  .headshot-container {
+        width: 40%;
+  }
+
 }
