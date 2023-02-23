@@ -230,9 +230,12 @@ p {
   transform: translateY(-200%) rotate(45deg);
 }
 
-.project-image {
+
+
+.project-image img{
   margin-top: 25px;
-  width: 250px;
+ height: 100px;
+ max-width: 100%;
   border-radius: 125px;
 }
 
