@@ -1,0 +1,2 @@
+var d = {"initial_ts":1677143655641,"form_factor":"PERSONAL_COMPUTER","os_family":"MAC_OS","browser_family":"FIREFOX","browser_version":"110.0","brand":"Apple","model":"Mac","os_version":"macOS 10.15 Catalina","carrier":null,"raw_value":null,"agent_type":"WEB_BROWSER"}
+if(window.mics && window.mics._setDeviceInfo){mics._setDeviceInfo(d);}
